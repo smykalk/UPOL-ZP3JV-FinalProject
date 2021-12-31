@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="finance_keeper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/finance_keeper_jar</output-path>
+    <root id="archive" name="finance_keeper.jar">
+      <element id="module-output" name="finance_keeper" />
+    </root>
+  </artifact>
+</component>
